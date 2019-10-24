@@ -1,0 +1,12 @@
+target 'TestDemo' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for TestDemo
+  pod 'SwiftHTTP', '~> 3.0.1'
+  pod 'MBProgressHUD', '~> 0.9.0'
+  pod 'SCLAlertView'
+  pod 'SDWebImage', '~> 4.0'
+  pod 'XLPagerTabStrip', '~> 8.0'
+
+end
